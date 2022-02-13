@@ -1,2 +1,2 @@
-# Deutsch (German)
-This folder is for German card sets only.
+# English
+This folder is for English card sets only.
