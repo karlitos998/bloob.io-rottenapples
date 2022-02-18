@@ -22,15 +22,17 @@ Absolutely! You're highly encouraged to share your custom work. There are a few 
 
 ### How to submit
 1. Download your custom card set from [Bloob.io](https://bloob.io/rottenapples) by going to "Custom Card Sets" and hitting the download button on the set you wish to share.
-2. Rename the file to the following format: `[TAG] Pack Name`. A tag may only be one word and should be all uppercase. It should give the user an idea of what they may expect. Can't think of one? Use `[MISC]`.
+2. Rename the file to the following format: `[TAG] Pack Name.json`. A tag may only be one word and should be all uppercase. It should give the user an idea of what they may expect. Can't think of one? Use `[MISC]`.
 3. Make sure you are logged into Github.
     * If you are unfamiliar with Github and Git, follow these steps.
-        1. Click on a folder with the language your custom card set is in.
+        1. Click on a folder with the language (e.g. Use "en-GB" for English for example) your custom card set is in.
             * Is your language not yet available? Please make [an issue here requesting a folder](https://github.com/Venlious/bloob.io-rottenapples/issues/new) for your language to be added.
-        2. While in the folder you should be able to see a button saying "Add file". You will get the option to "Upload files", which you should click.
-        3. Drag and drop all the custom card sets you wish to add.
-        4. Press the option to "Create a new branch and start a pull request". Don't worry about the name of the branch, I'll forgive you.
-        5. Hit the button "Propose Changes". It will now be reviewed and if approved it will become available for anyone to use.
+        2. While in the folder you should be able to see a button saying "Add file". You will get the option to "Create file", which you should click.
+        3. In the section "Name your file..." fill in the name for the file you used earlier in step 2.
+        4. Open the file using Notepad or a similar text editing program and copy all the contents and paste it inside the "Edit new file" section.
+        5. Scroll down to the bottom and hit the button "Propose new file". Don't worry about the name or the description, I'll forgive you.
+        6. Hit the button "Create pull request". You will now see a confirmation screen, simply press "Create pull request" again.
+        7. It will now be reviewed and if approved it will become available for anyone to use.
     * If you know what you're doing, follow these steps.
         1. Make a pull request where you want the card set to be. Would you like me to hold your hand?
 4. Thank you for your contribution!
