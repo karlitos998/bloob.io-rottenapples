@@ -5,8 +5,8 @@ Custom card sets which can be imported on [Bloob.io: Rotten Apples](https://bloo
 
 ## How do I use one or more of these card sets?
 If you are using [Bloob.io: Rotten Apples](https://bloob.io/rottenapples) you have two options.
-1. You can go to [Bloob.io](https://bloob.io/rottenapples) and hit "Custom Card Sets". There you will see a "Browse Public Sets" option which will allow you to view all card sets from this repository and directly download them.
-2. You can browse within this repository and download any card sets you like. On [Bloob.io](https://bloob.io/rottenapples) you can go to "Custom Card Sets" and press the "Import Set" button. Simply drag and drop all the card sets you would like to add and let it process.
+1. You can go to [Bloob.io](https://bloob.io/rottenapples) and hit "Custom Card Sets". There you will see a "Browse & Import Custom Sets" option which will allow you to view all card sets from this repository and directly download them.
+2. You can browse within this repository and download any card sets you like. On [Bloob.io](https://bloob.io/rottenapples) you can go to "Custom Card Sets", go to "Browse & Import Custom Sets", and then hit the "Import Set" button. Simply drag and drop all the card sets you would like to add and let it process.
 
 If you would like to use any of these card sets anywhere else, you're free to download them and use them as you wish. Please keep in mind the file format used for [Bloob.io](https://bloob.io/rottenapples) may not work on other platforms out of the box.
 
